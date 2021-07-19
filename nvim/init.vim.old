@@ -1,0 +1,71 @@
+" Specify a directory for plugins
+" - For Neovim: stdpath('data') . '/plugged'
+" - Avoid using standard Vim directory names like 'plugin'
+call plug#begin('~/.config/nvim/plugged')
+
+" Make sure you use single quotes
+
+" On-demand loading
+Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+
+" Plugin outside ~/.vim/plugged with post-update hook
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+
+Plug 'tpope/vim-surround'
+
+Plug 'tpope/vim-repeat'
+
+Plug 'scrooloose/nerdcommenter'
+
+Plug 'rstacruz/vim-closer'
+
+Plug 'neoclide/coc.nvim'
+
+Plug 'dense-analysis/ale'
+
+Plug 'vim-airline/vim-airline'
+
+Plug 'vim-airline/vim-airline-themes'
+
+Plug 'ryanoasis/vim-devicons'
+
+Plug 'morhetz/gruvbox'
+
+Plug 'airblade/vim-gitgutter'
+
+Plug 'arcticicestudio/nord-vim'
+
+" Initialize plugin system
+call plug#end()
+
+colorscheme nord
+
+" set background=dark
+
+syntax on
+
+filetype plugin indent on
+
+set noerrorbells
+set nowrap
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set nu
+set relativenumber
+set hidden
+set nobackup
+set undofile
+set undodir=~/.local/share/nvim/undodir
+set incsearch
+set termguicolors
+set scrolloff=8
+set signcolumn=yes
+set colorcolumn=80
+set noshowmode
+set completeopt=menuone,noinsert,noselect
+set encoding=UTF-8
+set shortmess+=c
+
+let mapleader=" "
+map <leader>/ :nohl<CR>

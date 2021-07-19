@@ -1,0 +1,2852 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "c3563166d595b3de957346fe4098b95ee84b236e5a1884173137d07ad2e9ff8bfd140eb238b9dfc723ca16adb0d76dce38a6dadc59320fecbe1286f43c851b10"
+      },
+      "expiry": 1626444595427
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "ab72d9c44880276531d89730140a32f61a038c50baf9e3e9c374e1f162ed9e798df9de0c7609a5cad2a5dad8798cad70ef651a5af035364248a408d55e58b22e"
+      },
+      "expiry": 1626444595421
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "f2b779e8efd76a995e1ba3589585fc743052e28da84d4cf512e0aaa017008a6cbc28a0cbb5c180c68cc897c550c20b75688bd642a0336fa4985dc3cedfd97143"
+      },
+      "expiry": 1626444595432
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "dec558ac36f30a97472d1d408465a42e382e68161ca3f0e40eb168c4caf1abc1b5319ea3883a47b300d7aab501d4731e5380893d7218c7559d44d14afb020053"
+      },
+      "expiry": 1626444595424
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "82fc52586b6cd1cbf05dcb53237e4bea283aa1a8b42abb54f30700775cfb3bb81ced2378628cd055a996c55f54f6c8aab6a8bb7500ced0b553aa812a9fcb8636"
+      },
+      "expiry": 1626444595429
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "15ab5c0ab8cc3c48ef36bce294918cf2b2867380b880308e576c60ed8f1bff95ede8b14c32a83e1d16d287c12f70b386725f1e63761072c3169f47b2132226ee"
+      },
+      "expiry": 1626444595435
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "73c25db55fa8d5fd59be92bbbbedaab59c56ae30bb2b04a3c4a3eae3452457bf9bf4066f261bd754946f16d6a575c086dd22f0e8b63a4755c8f2a4534378eaf3"
+      },
+      "expiry": 1626444595416
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "1d279422a27d660475eea3528be54c70f158348e76b8c0f8736baaaba9644928e8b6f07a880e29c19ce931e51ef2b743b1c70e76192cee5e27a7e218a35451fb"
+      },
+      "expiry": 1626444595418
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1626444595022
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1626444595020
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1626444595025
+    },
+    "/usr/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8"
+      },
+      "expiry": 1626444595028
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "b23c41018fd45e1f10b092d451cc3fcbc678e3b5823b3c5e0378ff66f96597279f5badab45ae9167950586e9c76d9a8ff0ec7c988669bf44d9129c60301a557e"
+      },
+      "expiry": 1626444595040
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44"
+      },
+      "expiry": 1626444595047
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "85a38fb247ef374ee9e1a63b18d5450fc9f4004181121829c4ae84e163bbcec97b0bfa4657b72a9eabfe2d33955d36f83b713c50e015cf316203e0220094009e"
+      },
+      "expiry": 1626444595043
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "a0fd144801a1abf62f9a998af15989017714af18d50981475a200465dd977b182aa553a2c5d52479d4f2a3f61ca1ad977b0abd998b66017f20082d567a1949ed"
+      },
+      "expiry": 1626444595495
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "3b7f49c5ca3731f48a9820f1238b91d087d2bb66929406515692f82889d394eb9efd63df5422318cfe94d0bb2f504023a7bb7bf298357bd2c55d18de47e8ddd8"
+      },
+      "expiry": 1626444595405
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432"
+      },
+      "expiry": 1626444595505
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "2ac02a63855bd9c6499609a15b53cec0c342da48d2d87c5abad237186da3ff4a2c6061ff07c55cbc57f44049fdcdf4599f7e5c7e9d3ec5800f56db18dac5f789"
+      },
+      "expiry": 1626444595398
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "e4e0e0f386c814140567acf9df557d0cfaf7c71a1ed935ba19e854b3f4b5894acc032d5a6e09f74ab5155ad746d82f1b60099d93f0edd1e5564f91ef6b2192c0"
+      },
+      "expiry": 1626444595395
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "43e3c42f4988dd4aaeb08d15cf0732dc515ab6b7f6262b884d33fe32ea3bcb91d58296517379afaa8623b95a0e051e71f509d7c2deb6df908ad73efce34ee089"
+      },
+      "expiry": 1626444595413
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "d7a864f628878e4335e7f5cd8e16e00ddde65dc4ec5014c866e09896ff342ff48bdb46f0691ee1655c72c746081d82ce70bf3b565fa263c074ccd287483f64da"
+      },
+      "expiry": 1626444595401
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "0bfd3ce855a33f670e19e637cf122c30ba34b6af319ff6c8992a80072a3213e166189b0d38351861945a3ee0c6cfdd82bca8c9b9ac6a44bcc6b980b1f88c243c"
+      },
+      "expiry": 1626444595409
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "82a05f54b45ba89e3a17f2e6a2ada48d8f178965b3d666b0397e610884bf205f3dd7599cc631f87ba2dde037713d8ee28e922fd8fc947b4c7391e2f3d7918caf"
+      },
+      "expiry": 1626444595437
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "8774a48342f3e99553547bde0eb4e17c77ec9055ebd7eccb33f928d476025d5f5a6d95505d9c6c0de1ad616b0949c2ef5c6760a3bd7f75151e26d048c7a77175"
+      },
+      "expiry": 1626444595348
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "82a05f54b45ba89e3a17f2e6a2ada48d8f178965b3d666b0397e610884bf205f3dd7599cc631f87ba2dde037713d8ee28e922fd8fc947b4c7391e2f3d7918caf",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "15ab5c0ab8cc3c48ef36bce294918cf2b2867380b880308e576c60ed8f1bff95ede8b14c32a83e1d16d287c12f70b386725f1e63761072c3169f47b2132226ee",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+        "fileHash": "82fc52586b6cd1cbf05dcb53237e4bea283aa1a8b42abb54f30700775cfb3bb81ced2378628cd055a996c55f54f6c8aab6a8bb7500ced0b553aa812a9fcb8636",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "f2b779e8efd76a995e1ba3589585fc743052e28da84d4cf512e0aaa017008a6cbc28a0cbb5c180c68cc897c550c20b75688bd642a0336fa4985dc3cedfd97143",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "c3563166d595b3de957346fe4098b95ee84b236e5a1884173137d07ad2e9ff8bfd140eb238b9dfc723ca16adb0d76dce38a6dadc59320fecbe1286f43c851b10",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+        "fileHash": "dec558ac36f30a97472d1d408465a42e382e68161ca3f0e40eb168c4caf1abc1b5319ea3883a47b300d7aab501d4731e5380893d7218c7559d44d14afb020053",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "ab72d9c44880276531d89730140a32f61a038c50baf9e3e9c374e1f162ed9e798df9de0c7609a5cad2a5dad8798cad70ef651a5af035364248a408d55e58b22e",
+        "envName": "carrefour",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "1d279422a27d660475eea3528be54c70f158348e76b8c0f8736baaaba9644928e8b6f07a880e29c19ce931e51ef2b743b1c70e76192cee5e27a7e218a35451fb",
+        "envName": "carrefour",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+        "fileHash": "73c25db55fa8d5fd59be92bbbbedaab59c56ae30bb2b04a3c4a3eae3452457bf9bf4066f261bd754946f16d6a575c086dd22f0e8b63a4755c8f2a4534378eaf3",
+        "envName": "carrefour",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "43e3c42f4988dd4aaeb08d15cf0732dc515ab6b7f6262b884d33fe32ea3bcb91d58296517379afaa8623b95a0e051e71f509d7c2deb6df908ad73efce34ee089",
+        "envName": "fintelligence",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "0bfd3ce855a33f670e19e637cf122c30ba34b6af319ff6c8992a80072a3213e166189b0d38351861945a3ee0c6cfdd82bca8c9b9ac6a44bcc6b980b1f88c243c",
+        "envName": "fintelligence",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "3b7f49c5ca3731f48a9820f1238b91d087d2bb66929406515692f82889d394eb9efd63df5422318cfe94d0bb2f504023a7bb7bf298357bd2c55d18de47e8ddd8",
+        "envName": "fintelligence",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "d7a864f628878e4335e7f5cd8e16e00ddde65dc4ec5014c866e09896ff342ff48bdb46f0691ee1655c72c746081d82ce70bf3b565fa263c074ccd287483f64da",
+        "envName": "machinelearning",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "2ac02a63855bd9c6499609a15b53cec0c342da48d2d87c5abad237186da3ff4a2c6061ff07c55cbc57f44049fdcdf4599f7e5c7e9d3ec5800f56db18dac5f789",
+        "envName": "machinelearning",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+        "fileHash": "e4e0e0f386c814140567acf9df557d0cfaf7c71a1ed935ba19e854b3f4b5894acc032d5a6e09f74ab5155ad746d82f1b60099d93f0edd1e5564f91ef6b2192c0",
+        "envName": "machinelearning",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "b4ac8c2e690e9d2d2bed7ebc65c9e2bb36d9232fd9262965dc31528dc8ccce6cf47acdb3bcb633fcd23d0953935773d40cb6f3254a0e404433bd847155ef1abd",
+        "envName": "phrenesys",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "3a7b7fd028e7b398036e2438bec2001228ba5bf47c864cc59441558dec6a225f48636bcd564040945e858bd6323e0e28ce7d9faeb8b9152a6162816f955a82d9",
+        "envName": "phrenesys",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "569d5feb8524737de861e0b41a881c58d2e5b68b9061e0e46d39825fb962daf7a1debac110f2638dffc5ee6c70279ff4c5c12f6e2741eae500073c5da87dc50a",
+        "envName": "phrenesys",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+        "envName": "wallet",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "a0fd144801a1abf62f9a998af15989017714af18d50981475a200465dd977b182aa553a2c5d52479d4f2a3f61ca1ad977b0abd998b66017f20082d567a1949ed",
+        "envName": "wallet",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "8774a48342f3e99553547bde0eb4e17c77ec9055ebd7eccb33f928d476025d5f5a6d95505d9c6c0de1ad616b0949c2ef5c6760a3bd7f75151e26d048c7a77175",
+        "envName": "wallet",
+        "type": "Venv"
+      }
+    ],
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1626444595492
+    },
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c1a3ff40410a5049f41c5c6d8456690f1ef6a39f8fd0118e2ce84af65446f3abdf1a93e9b5e27f1c2be45de4e0e7fd9b08b403e25102f1540d6003c2149dbb8e"
+      },
+      "expiry": 1626444595230
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a"
+      },
+      "expiry": 1626444595232
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "a0fd144801a1abf62f9a998af15989017714af18d50981475a200465dd977b182aa553a2c5d52479d4f2a3f61ca1ad977b0abd998b66017f20082d567a1949ed",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+          "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+          "envName": "wallet",
+          "type": "Venv",
+          "displayName": "Python 3.9.1 64-bit ('wallet': venv)"
+        }
+      },
+      "expiry": 1626444595744
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('wallet': venv)",
+        "hash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432-33d3a7934f398e2319a911327477ca70"
+      },
+      "expiry": 1626462716961
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1626444595228
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "85a38fb247ef374ee9e1a63b18d5450fc9f4004181121829c4ae84e163bbcec97b0bfa4657b72a9eabfe2d33955d36f83b713c50e015cf316203e0220094009e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+        "fileHash": "b23c41018fd45e1f10b092d451cc3fcbc678e3b5823b3c5e0378ff66f96597279f5badab45ae9167950586e9c76d9a8ff0ec7c988669bf44d9129c60301a557e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c1a3ff40410a5049f41c5c6d8456690f1ef6a39f8fd0118e2ce84af65446f3abdf1a93e9b5e27f1c2be45de4e0e7fd9b08b403e25102f1540d6003c2149dbb8e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c1a3ff40410a5049f41c5c6d8456690f1ef6a39f8fd0118e2ce84af65446f3abdf1a93e9b5e27f1c2be45de4e0e7fd9b08b403e25102f1540d6003c2149dbb8e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('3.9.1': pyenv)",
+        "hash": "f2b779e8efd76a995e1ba3589585fc743052e28da84d4cf512e0aaa017008a6cbc28a0cbb5c180c68cc897c550c20b75688bd642a0336fa4985dc3cedfd97143-98edfa71a9622769008a38f90706a231"
+      },
+      "expiry": 1626444595683
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('3.8.5': pyenv)",
+        "hash": "82a05f54b45ba89e3a17f2e6a2ada48d8f178965b3d666b0397e610884bf205f3dd7599cc631f87ba2dde037713d8ee28e922fd8fc947b4c7391e2f3d7918caf-0383f82afb909b7884fb0bad1eccdf8c"
+      },
+      "expiry": 1626444595679
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('carrefour': venv)",
+        "hash": "ab72d9c44880276531d89730140a32f61a038c50baf9e3e9c374e1f162ed9e798df9de0c7609a5cad2a5dad8798cad70ef651a5af035364248a408d55e58b22e-eeeacc73121cfc261a81801bc446b9e5"
+      },
+      "expiry": 1626444595697
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('fintelligence': venv)",
+        "hash": "43e3c42f4988dd4aaeb08d15cf0732dc515ab6b7f6262b884d33fe32ea3bcb91d58296517379afaa8623b95a0e051e71f509d7c2deb6df908ad73efce34ee089-e7dc264997b1ab5c2d7fc3388c3789d9"
+      },
+      "expiry": 1626444595701
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('machinelearning': venv)",
+        "hash": "d7a864f628878e4335e7f5cd8e16e00ddde65dc4ec5014c866e09896ff342ff48bdb46f0691ee1655c72c746081d82ce70bf3b565fa263c074ccd287483f64da-36dbb553ce8e8539fc0bc0b839d5c8b5"
+      },
+      "expiry": 1626444595706
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44-84d04c462807ae4adec2df10189c3337"
+      },
+      "expiry": 1626444595714
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a-0ca275090c65363f85ce4b0cd1d4582b"
+      },
+      "expiry": 1626444595718
+    },
+    "/usr/local/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.4 64-bit",
+        "hash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8-79401db76cac40ba58d2df69e11cfec9"
+      },
+      "expiry": 1626444595722
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-f5b651b9c4b75532b11ae83303c43d14"
+      },
+      "expiry": 1626444595726
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-4bc3c9f5346452a4fe404c621ebcd443"
+      },
+      "expiry": 1626444595729
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-a9fb100b1ab04c53a774363838d4885e"
+      },
+      "expiry": 1626444595733
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f2b779e8efd76a995e1ba3589585fc743052e28da84d4cf512e0aaa017008a6cbc28a0cbb5c180c68cc897c550c20b75688bd642a0336fa4985dc3cedfd97143",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/3.9.1/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.9.1",
+          "fileHash": "f2b779e8efd76a995e1ba3589585fc743052e28da84d4cf512e0aaa017008a6cbc28a0cbb5c180c68cc897c550c20b75688bd642a0336fa4985dc3cedfd97143",
+          "envName": "3.9.1",
+          "type": "Pyenv",
+          "displayName": "Python 3.9.1 64-bit ('3.9.1': pyenv)"
+        }
+      },
+      "expiry": 1626444595777
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "82a05f54b45ba89e3a17f2e6a2ada48d8f178965b3d666b0397e610884bf205f3dd7599cc631f87ba2dde037713d8ee28e922fd8fc947b4c7391e2f3d7918caf",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/3.8.5/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/3.8.5",
+          "fileHash": "82a05f54b45ba89e3a17f2e6a2ada48d8f178965b3d666b0397e610884bf205f3dd7599cc631f87ba2dde037713d8ee28e922fd8fc947b4c7391e2f3d7918caf",
+          "envName": "3.8.5",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.5 64-bit ('3.8.5': pyenv)"
+        }
+      },
+      "expiry": 1626444595767
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ab72d9c44880276531d89730140a32f61a038c50baf9e3e9c374e1f162ed9e798df9de0c7609a5cad2a5dad8798cad70ef651a5af035364248a408d55e58b22e",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/carrefour/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/carrefour",
+          "fileHash": "ab72d9c44880276531d89730140a32f61a038c50baf9e3e9c374e1f162ed9e798df9de0c7609a5cad2a5dad8798cad70ef651a5af035364248a408d55e58b22e",
+          "envName": "carrefour",
+          "type": "Venv",
+          "displayName": "Python 3.9.1 64-bit ('carrefour': venv)"
+        }
+      },
+      "expiry": 1626444595786
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "43e3c42f4988dd4aaeb08d15cf0732dc515ab6b7f6262b884d33fe32ea3bcb91d58296517379afaa8623b95a0e051e71f509d7c2deb6df908ad73efce34ee089",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+          "fileHash": "43e3c42f4988dd4aaeb08d15cf0732dc515ab6b7f6262b884d33fe32ea3bcb91d58296517379afaa8623b95a0e051e71f509d7c2deb6df908ad73efce34ee089",
+          "envName": "fintelligence",
+          "type": "Venv",
+          "displayName": "Python 3.8.5 64-bit ('fintelligence': venv)"
+        }
+      },
+      "expiry": 1626444595799
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d7a864f628878e4335e7f5cd8e16e00ddde65dc4ec5014c866e09896ff342ff48bdb46f0691ee1655c72c746081d82ce70bf3b565fa263c074ccd287483f64da",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/machinelearning/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/machinelearning",
+          "fileHash": "d7a864f628878e4335e7f5cd8e16e00ddde65dc4ec5014c866e09896ff342ff48bdb46f0691ee1655c72c746081d82ce70bf3b565fa263c074ccd287483f64da",
+          "envName": "machinelearning",
+          "type": "Venv",
+          "displayName": "Python 3.8.5 64-bit ('machinelearning': venv)"
+        }
+      },
+      "expiry": 1626444595814
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+          "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1626444595833
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "6def3f89da9be03d3e9d1f00b06a417f5896a4c59eb0d91e1ca9a3f8ce67f13f80f6522193498395174b3201bf1c75901bffd1627eef9d9884c4938a82fc757a",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1626444595841
+    },
+    "/usr/local/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.4-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.4-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "872f959ae9f417d31a0f435df0990f3c2e93404f5210dce5ee89f2a24f8d4981c7ce1a0cc800499a95f2c20cc5c3dc4573b4a7e07ed5b3344af0ba9e5d5d17c8",
+          "type": "Unknown",
+          "displayName": "Python 3.7.4 64-bit"
+        }
+      },
+      "expiry": 1626444595850
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1626444595858
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1626444595867
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1626444595875
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "5dd94be30cc94d80c34f9f0e5c42fe1a57055f6b6f15083a03263e4d92fe81e9dd00d07149be209dfcecd3eeaf870c77f08b058c3fc03e8c8fcf8a569d64da44",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "ProposeLSBanner": false,
+    "/Users/rogeriocamargo/.pyenv/shims/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/fintelligence",
+        "fileHash": "b1fce3cbd088dec65f67daabd4f2237b861126b828d36176d4b51dd36ca2f23da63ae8ba1eb7ecb42c39b44a5fe84717f93f3ceccc172b182d02281d3d8167fc"
+      },
+      "expiry": 1621039824857
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "b1fce3cbd088dec65f67daabd4f2237b861126b828d36176d4b51dd36ca2f23da63ae8ba1eb7ecb42c39b44a5fe84717f93f3ceccc172b182d02281d3d8167fc-0965266eacb1a687726434798010c8a1"
+      },
+      "expiry": 1620238201345
+    },
+    "/Users/rogeriocamargo/.pyenv/shims/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b1fce3cbd088dec65f67daabd4f2237b861126b828d36176d4b51dd36ca2f23da63ae8ba1eb7ecb42c39b44a5fe84717f93f3ceccc172b182d02281d3d8167fc",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/shims/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+          "fileHash": "b1fce3cbd088dec65f67daabd4f2237b861126b828d36176d4b51dd36ca2f23da63ae8ba1eb7ecb42c39b44a5fe84717f93f3ceccc172b182d02281d3d8167fc",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1620238201392
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "b4ac8c2e690e9d2d2bed7ebc65c9e2bb36d9232fd9262965dc31528dc8ccce6cf47acdb3bcb633fcd23d0953935773d40cb6f3254a0e404433bd847155ef1abd"
+      },
+      "expiry": 1626444595390
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "569d5feb8524737de861e0b41a881c58d2e5b68b9061e0e46d39825fb962daf7a1debac110f2638dffc5ee6c70279ff4c5c12f6e2741eae500073c5da87dc50a"
+      },
+      "expiry": 1626444595359
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+        "fileHash": "3a7b7fd028e7b398036e2438bec2001228ba5bf47c864cc59441558dec6a225f48636bcd564040945e858bd6323e0e28ce7d9faeb8b9152a6162816f955a82d9"
+      },
+      "expiry": 1626444595387
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('phrenesys': venv)",
+        "hash": "b4ac8c2e690e9d2d2bed7ebc65c9e2bb36d9232fd9262965dc31528dc8ccce6cf47acdb3bcb633fcd23d0953935773d40cb6f3254a0e404433bd847155ef1abd-f76fd75f7afa3bad65c89cbb96e59cef"
+      },
+      "expiry": 1626444595710
+    },
+    "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b4ac8c2e690e9d2d2bed7ebc65c9e2bb36d9232fd9262965dc31528dc8ccce6cf47acdb3bcb633fcd23d0953935773d40cb6f3254a0e404433bd847155ef1abd",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/rogeriocamargo/.pyenv/versions/phrenesys/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/phrenesys",
+          "fileHash": "b4ac8c2e690e9d2d2bed7ebc65c9e2bb36d9232fd9262965dc31528dc8ccce6cf47acdb3bcb633fcd23d0953935773d40cb6f3254a0e404433bd847155ef1abd",
+          "envName": "phrenesys",
+          "type": "Venv",
+          "displayName": "Python 3.8.5 64-bit ('phrenesys': venv)"
+        }
+      },
+      "expiry": 1626444595825
+    }
+  },
+  "coc-python|/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Brydge/git/wallet": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e1ffda754f504cadc1678cb39a92a40c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e1ffda754f504cadc1678cb39a92a40c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Brydge/git/wallet": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/.config/nvim/plug-config": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/BlackDonalds/MVP": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:877515cfbca5764799a597f6b5f930c2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:877515cfbca5764799a597f6b5f930c2": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/BlackDonalds/MVP": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/rogeriocamargo/.pyenv/versions/fintelligence/bin/python"
+  },
+  "coc-python|/Users/rogeriocamargo/Documents": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9dd9830ebe7063ddea9b737d00be108f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9dd9830ebe7063ddea9b737d00be108f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Documents": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Phrenesys": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:95e630aecb438fa97268748f83959ae3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:95e630aecb438fa97268748f83959ae3": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Phrenesys": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Phrenesys/python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b611568564acae0ffef2006340df97b8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b611568564acae0ffef2006340df97b8": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/Phrenesys/python": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/BlackDonalds/git/MVP": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:729fb11ee923a272b98cb8bed45e4b1d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:729fb11ee923a272b98cb8bed45e4b1d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Trabalho/BlackDonalds/git/MVP": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/Files/Trabalho/Brydge/git/wallet": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:19698b2ee3a30030c597306901611151": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:19698b2ee3a30030c597306901611151": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/Files/Trabalho/Brydge/git/wallet": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/Files/Trabalho/freelas/bueno_junho_21": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b33c05753ea05f856bfae430ece6d300": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b33c05753ea05f856bfae430ece6d300": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/Files/Trabalho/freelas/bueno_junho_21": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18 - automatização planilha/kirkman-project/kirkman_project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:88fb132e7341065020ee717c2d6a4e33": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:88fb132e7341065020ee717c2d6a4e33": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18 - automatização planilha/kirkman-project/kirkman_project": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18-automation_and_cornojobium/automacao/kirkman-project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d7f2f0f8adc7dc5af5e8caa8b6e81ada": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d7f2f0f8adc7dc5af5e8caa8b6e81ada": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18-automation_and_cornojobium/automacao/kirkman-project": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18-automation_and_cornojobium/automacao/kirkman-project/kirkman_project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1c2205497d8b2d22d63e09353e0fe358": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1c2205497d8b2d22d63e09353e0fe358": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/carrefour/omni/tasks/06_18-automation_and_cornojobium/automacao/kirkman-project/kirkman_project": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/carrefour/omni/routine/automacao_sortimento/kirkman-project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4233431deba8b0dbc2067e1ee238c2df": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4233431deba8b0dbc2067e1ee238c2df": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/carrefour/omni/routine/automacao_sortimento/kirkman-project": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/rogeriocamargo/Dropbox/carrefour/omni/routine/automacao_sortimento/kirkman-project/kirkman_project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6ace77a3adeb9fb2283c35209c85869b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6ace77a3adeb9fb2283c35209c85869b": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/rogeriocamargo/Dropbox/carrefour/omni/routine/automacao_sortimento/kirkman-project/kirkman_project": {
+      "architecture": 3,
+      "path": "/Users/rogeriocamargo/.pyenv/versions/wallet/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rogeriocamargo/.pyenv/versions/wallet",
+      "fileHash": "495eebd501e4d598db79c4a0923b396d570c39b2ab04ae5e968d19e8ee7f8b9eaa3b45c9fe0bbd6ebca5851a3009d04194c4c9c48c00e49e76e6e36e0a23c432",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}
